@@ -42,8 +42,7 @@ Actualmente estoy ampliando mis conocimientos en:
 ---
 
 ### 💬 Contacto
-📧 [tuemail@gmail.com]  
-💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
-🐙 [GitHub](https://github.com/tuusuario)
+📧 fgrela@frba.utn.edu.ar  
+💼 [LinkedIn]((https://www.linkedin.com/in/fabriciogrela/))  
 
 ---
